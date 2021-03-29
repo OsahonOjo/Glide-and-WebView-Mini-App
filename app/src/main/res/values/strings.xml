@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Glide and WebView Mini App</string>
+    <string name="label_web_activity">Web</string>
+</resources>
